@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:LBaquero;Annick;;;
-FN: Annick Baquero 
-ORG:Annick Does PR;
-TITLE:Aspiring Public Relations Proffesional 
-EMAIL;type=INTERNET;type=WORK;type=pref:annick.baquero@gmail.com
-TEL;type=WORK;type=VOICE:+832 512 4598
-item1.ADR;type=WORK;type=pref:;; 6430 Richmond \nAve\, Suite 4;;;77057;Houston
+N:Ricks;Faith;;;
+FN: Faith Ricks 
+ORG:Faith Aesthetics;
+TITLE:Licensed Esthetician 
+EMAIL;type=INTERNET;type=WORK;type=pref:faith@faithaesthetics.com
+TEL;type=WORK;type=VOICE:+409 553 0110
+item1.ADR;type=WORK;type=pref:;; 1745 W Alabama \nSt\,;;;77098;Houston
 item1.X-ABADR:sg
-item2.URL;type=pref:https://annickbaquero.wixsite.com/website-1
+item2.URL;type=pref:https://faithaesthetics.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
